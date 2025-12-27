@@ -68,8 +68,9 @@ streamlit run chatbot.py
 
 1. Clone the repository
 
-  git clone https://github.com/RahamathNasreenC/Chatbot.git
-  cd Chatbot
+     git clone https://github.com/RahamathNasreenC/Chatbot.git
+   
+     cd Chatbot
 
 
 
