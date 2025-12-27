@@ -68,15 +68,19 @@ streamlit run chatbot.py
 
 1. Clone the repository
 
-2. Install the required dependencies:
+   git clone https://github.com/your-username/Chatbot.git
+   cd Chatbot
 
-pip install -r requirements.txt
+
+3. Install the required dependencies:
+
+   pip install -r requirements.txt
 
 3. Set your Gemini API key as shown above.
 
 4. Run the application:
 
-streamlit run chatbot.py
+   streamlit run chatbot.py
 
 5. Open the URL displayed in the terminal (usually `http://localhost:8501`) to use the chatbot.
 
